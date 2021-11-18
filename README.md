@@ -95,7 +95,7 @@ QR Code generator and full instructions available there.
 										<tbody>
 											<tr>
 												<td><a href="https://github.com/KINGTECHPRO/"><img src="https://i.ibb.co/CmGCxDQ/artworks-000249837946-798hgw-t500x500.jpg" width="200" height="200" alt="TECH_PRO"></a></td>                 
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/t8d84wT/Screenshot-20211116-124010-2.png" width="200" height="200" alt="@GMAING_CHATURA"></a></td>
+												<td><a href="www.techpro200811.blogspot.com_/"><img src="https://i.ibb.co/FB5nz3Q/Screenshot-20211116-124010-2.png" width="200" height="200" alt="@GMAING_CHATURA"></a></td>
 												<td><a href="shorturl.at/aemyL/"><img src="https://i.ibb.co/KwGKmY4/GAMING-SHEHAN.png" width="200" height="200" alt="@GMAING_SHEHAN"></a></td>
 											</tr>
 										</tbody>
