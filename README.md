@@ -59,7 +59,7 @@
   </p>
  <p align="center">
   <a href="https://wa.me/94707728716">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20COADMIN%20THIS%20BOT-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20ADMIN%20THIS%20BOT-purple&style=plastic">
 
   </a>
   </p>
