@@ -59,13 +59,13 @@
   </p>
  <p align="center">
   <a href="https://wa.me/94707728716">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20LEADER%20Bot-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20COADMIN%20THIS%20BOT-purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://wa.me/94786315446">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20COADMIN%20Bot-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-KING_%20TECHPRO%20CO-ADMIN%20Bot-purple&style=plastic">
 
   </a>
 </p>
@@ -94,7 +94,7 @@ QR Code generator and full instructions available there.
 <table>
 										<tbody>
 											<tr>
-												<td><a href="https://github.com/KINGTECHPRO/"><img src="https://i.ibb.co/CmGCxDQ/artworks-000249837946-798hgw-t500x500.jpg" width="200" height="200" alt="TECH_PRO"></a></td>                 
+												<td><a href="https://github.com/KINGTECHPRO/"><img src="https://i.ibb.co/DzB65wG/1637216717790logo.png" width="200" height="200" alt="LEADER"></a></td>                 
 												<td><a href="www.techpro200811.blogspot.com_/"><img src="https://i.ibb.co/FB5nz3Q/Screenshot-20211116-124010-2.png" width="200" height="200" alt="@GMAING_CHATURA"></a></td>
 												<td><a href="shorturl.at/aemyL/"><img src="https://i.ibb.co/KwGKmY4/GAMING-SHEHAN.png" width="200" height="200" alt="@GMAING_SHEHAN"></a></td>
 											</tr>
